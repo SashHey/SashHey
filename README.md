@@ -1,7 +1,6 @@
 About Me:
 
-My Name is Sasha Heyburgh, I am a graduate from Vega School Cape Town with a Bachelor of Computer and Information Science specializing in Game Design and Development.
-In high school I received a scholarship to study with Code4CT and achieved a higher certificate in Web Development.
+I am an entry-level Game Designer and Web Developer. I am a graduate from Vega School, where I completed a BCIS in Game Design and Development, and I am proficient in C#, Java, C++, HTML, CSS, and JavaScript (vanilla as well as React framework). I also completed a course at CodeSpace Academy and achieved a Higher Certificate in JavaScript Fundamentals. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
 Link to my Portfolio: https://heyburgh.wixsite.com/portfolio-sasha
 
